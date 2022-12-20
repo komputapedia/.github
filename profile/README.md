@@ -1,6 +1,6 @@
 ## Komputapedia 👋
 
-Sebuah inisiatif untuk membangun ensiklopedia ilmu komputasi berbahasa Indonesia secara terbuka dan bergotong royong dengan tujuan membuat 
+Sebuah inisiatif untuk membangun ensiklopedia ilmu komputasi berbahasa Indonesia secara terbuka, sukarela dan bergotong royong dengan tujuan membuat 
 pengetahuan dan wawasan ilmu komputasi terjangkau dalam Bahasa Indonesia.
 
 🌈 Panduan Kontribusi
